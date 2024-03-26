@@ -416,7 +416,7 @@ body {
 }
 
 .content .text:before {
-    content: "bcepmnbwwg/yaozongbin";
+    content: "https://github.com/yaozongbin";
     font-size: .9rem;
     order: 1;
 
@@ -425,7 +425,7 @@ body {
 .content .text::after {
     order: 2;
     font-size: .7rem;
-    content: "https://github.com/bcepmnbwwg";
+    content: "https://github.com/yaozongbin";
     opacity: 0.5;
 }
 
